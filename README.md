@@ -2,6 +2,8 @@
 
 Welcome to **Data Analytics Assignment**, a repository that serves as a collection of assignments and projects showcasing my journey in data analytics. This repository includes work across programming, data structures, statistics, and other related fields.  
 
+I am currently pursuing a data analytics course from **PW Skills** , and this repository will reflect my learning and progress throughout the course.
+
 Feel free to explore, learn, and contribute to the growth of this repository. New assignments and projects will be added regularly to reflect ongoing learning and skills development.  
 
 ---
