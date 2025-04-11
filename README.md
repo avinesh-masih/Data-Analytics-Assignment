@@ -1,10 +1,43 @@
-# Data Analytics Assignment  
+# PW Skills Data Analytics Assignment Repository 
 
-Welcome to **Data Analytics Assignment**, a repository that serves as a collection of assignments and projects showcasing my journey in data analytics. This repository includes work across programming, data structures, statistics, and other related fields.  
+Welcome to the **PW Skills Data Analytics Assignment** repository!  
 
-I am currently pursuing a data analytics course from **PW Skills** , and this repository will reflect my learning and progress throughout the course.
+This repository contains all practical and theoretical assignments from the **PW Skills Data Analytics course**, including work on Python, SQL, Statistics, Machine Learning, Data Visualization, KNN, PCA, and more.
+
+Whether you're a data analytics student, job-seeker, or someone preparing for interviews, this collection will help you revise key topics and gain hands-on experience.
 
 Feel free to explore, learn, and contribute to the growth of this repository. New assignments and projects will be added regularly to reflect ongoing learning and skills development.  
+
+---
+
+## 🔑 Keywords (SEO)
+
+- Data Analytics Assignment PW Skills  
+- PW Skills Python SQL Statistics Assignment  
+- Data Science Assignments GitHub  
+- Data Analytics Projects for Beginners  
+- Python and SQL Assignment Solutions  
+- PW Skills GitHub Assignment Repository  
+
+---
+
+## 📊 Tools & Technologies Used
+
+- Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)  
+- SQL (MySQL)  
+- Excel  
+- Power BI  
+- Jupyter Notebook  
+- Git & GitHub  
+
+---
+
+## ✅ How to Use
+
+1. Clone the repo or download the ZIP  
+2. Open `.ipynb` notebooks in Jupyter  
+3. Practice or review the solutions  
+4. Feel free to ⭐ star or fork the repo if you find it useful  
 
 ---
 
@@ -32,4 +65,4 @@ For inquiries, permissions, or to contribute to this project, please reach out v
 
 ---
 
-Stay tuned for updates as I continue to expand this repository with more assignments and projects related to data analytics!
+✨ **Star this repo** to support and get updates on my learning journey!  
