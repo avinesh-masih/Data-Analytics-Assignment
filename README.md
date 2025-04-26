@@ -1,4 +1,4 @@
-# PW Skills Data Analytics Assignment Repository 
+<h1 align="center">PW Skills Data Analytics Assignment Repository</h1>
 
 ![Banner](https://raw.githubusercontent.com/avinesh-masih/avinesh-masih-assets/refs/heads/main/assets/banners/avinesh-masih-Data-Analytics-Assignment.png)
 
