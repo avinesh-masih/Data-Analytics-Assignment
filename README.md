@@ -1,5 +1,7 @@
 # PW Skills Data Analytics Assignment Repository 
 
+![Banner](https://raw.githubusercontent.com/avinesh-masih/avinesh-masih-assets/refs/heads/main/assets/banners/avinesh-masih-Data-Analytics-Assignment.png)
+
 Welcome to the **PW Skills Data Analytics Assignment** repository!  
 
 > [!TIP]  
