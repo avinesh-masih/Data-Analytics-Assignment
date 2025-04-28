@@ -6,6 +6,12 @@ Welcome to the **Employee Work Productivity Analysis** Excel assignment 1 reposi
 
 This assignment focuses on analyzing employee work productivity using Excel features such as data sorting, filtering, PivotTables, chart visualization, and calculating performance metrics like Productivity Efficiency Index (PEI) and Tasks per Hour (TPH).
 
+## Preview
+
+Here’s a preview of the Employee Work Productivity Analysis sheet:
+
+![employee-productivity-analysis-screenshot.png](employee-productivity-analysis-screenshot.png)
+
 ## License
 
 This project is protected under a custom license. Unauthorized use, modification, distribution, or reproduction of the code and any associated materials is strictly prohibited without explicit written permission from the author.
