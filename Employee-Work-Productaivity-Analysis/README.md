@@ -10,7 +10,7 @@ This assignment focuses on analyzing employee work productivity using Excel feat
 
 Here’s a preview of the Employee Work Productivity Analysis sheet:
 
-![employee-productivity-analysis-screenshot.png](employee-productivity-analysis-screenshot.png)
+![employee-productivity-analysis-screenshot.png](assets/employee-productivity-analysis-screenshot.png)
 
 ## License
 
