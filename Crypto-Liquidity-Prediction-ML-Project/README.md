@@ -25,10 +25,12 @@ Crypto-Liquidity-Prediction-ML-Project/
 │   ├── figures/                  # Plots and visualizations (PNG, etc.)
 │   └── models/                   # Output models for deployment/testing
 │
-└── notebooks/
-    ├── 01_data_exploration.ipynb     # Data loading, cleaning, EDA
-    ├── 02_feature_engineering.ipynb  # Feature creation and transformation
-    └── 03_model_training.ipynb       # Model training, tuning, evaluation
+├── notebooks/
+│   ├── 01_data_exploration.ipynb     # Data loading, cleaning, EDA
+│   ├── 02_feature_engineering.ipynb  # Feature creation and transformation
+│   └── 03_model_training.ipynb       # Model training, tuning, evaluation
+│
+└── report/                       # Final project report, documentation, and presentations
 ```
 
 **Folder Info:**
@@ -38,10 +40,10 @@ Crypto-Liquidity-Prediction-ML-Project/
 - `outputs/figures/`: Visualizations and plots generated during EDA and analysis.
 - `outputs/models/`: Output models for deployment/testing (may duplicate `models/` for versioning).
 - `notebooks/`: Jupyter/VSCode notebooks for each pipeline stage (EDA, feature engineering, modeling).
+- `report/`: Final project report, documentation, and presentations.
 - `app.py`: Streamlit web application for interactive predictions.
 - `requirements.txt`: List of required Python packages.
 - `README.md`: Project overview, instructions, and documentation.
-
 ---
 
 ## Required Python Libraries
