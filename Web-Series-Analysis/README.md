@@ -1,4 +1,4 @@
-# 🎬 Web Series Analysis - Tableau Assignment
+# 🎬 Web Series Analysis - Tableau Assignment 1
 
 This repository contains the **Web Series Analysis** project developed using **Tableau** to explore trends, ratings, genres, and platform performances of various web series.
 

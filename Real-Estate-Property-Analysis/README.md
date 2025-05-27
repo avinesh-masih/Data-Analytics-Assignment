@@ -1,4 +1,4 @@
-# 🏠 Real Estate Property Analysis – Tableau Assignment
+# 🏠 Real Estate Property Analysis – Tableau Assignment 2
 
 This repository contains the **Real Estate Property Analysis** project developed using **Tableau**, aimed at exploring market trends, pricing patterns, property types, and seller insights across various cities in India.
 
