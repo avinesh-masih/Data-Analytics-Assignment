@@ -1,4 +1,4 @@
-# 🏅 Olympic Medal Trends Analysis – Tableau Dashboard Project
+# 🏅 Olympic Medal Trends Analysis – Tableau Dashboard Project 1
 
 This repository contains the **Olympic Medal Trends Analysis** project developed using **Tableau**, conducted for **AthletiCore Analytics** in collaboration with the **International Olympic Committee (IOC)**. The goal is to explore over a century of Olympic data (1896–2008) and uncover trends in country dominance, athlete performance, gender representation, and sport-specific medal distributions.
 
