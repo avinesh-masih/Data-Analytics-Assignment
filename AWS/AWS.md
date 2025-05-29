@@ -19,14 +19,11 @@
 
 AWS infrastructure is organized into **Regions**, **Availability Zones (AZs)**, and **Edge Locations**, each serving different purposes to optimize performance, availability, and latency.
 
-- **AWS Regions:**  
-  A Region is a geographically separate area around the world where AWS has data centers. Each Region contains multiple Availability Zones and operates independently. Examples include `us-east-1` (N. Virginia), `eu-west-1` (Ireland). Regions allow customers to deploy applications closer to their users or comply with local data regulations.
+- **AWS Regions:** A Region is a geographically separate area around the world where AWS has data centers. Each Region contains multiple Availability Zones and operates independently. Examples include `us-east-1` (N. Virginia), `eu-west-1` (Ireland). Regions allow customers to deploy applications closer to their users or comply with local data regulations.
 
-- **Availability Zones (AZs):**  
-  An Availability Zone is one or more discrete data centers within a Region that are engineered to be isolated from failures in other AZs. AZs provide high availability and fault tolerance by allowing users to deploy redundant resources across zones within the same Region.
+- **Availability Zones (AZs):** An Availability Zone is one or more discrete data centers within a Region that are engineered to be isolated from failures in other AZs. AZs provide high availability and fault tolerance by allowing users to deploy redundant resources across zones within the same Region.
 
-- **Edge Locations:**  
-  Edge Locations are data centers located globally to serve content through the AWS Content Delivery Network (CloudFront). They cache copies of data closer to users to reduce latency and improve performance for content delivery.
+- **Edge Locations:** Edge Locations are data centers located globally to serve content through the AWS Content Delivery Network (CloudFront). They cache copies of data closer to users to reduce latency and improve performance for content delivery.
 
 **Why is this important for data analysis and latency-sensitive applications?**
 
@@ -43,7 +40,7 @@ To list all available AWS regions using the AWS CLI, the following command can b
 ```bash
 aws ec2 describe-regions --query "Regions[].RegionName" --output text
 ```
-**Output:**
+**Screenshot:**
 
 ![AWS CLI Screenshot](assets/Q2_AWS_CLI_List_Regions.png)
 
@@ -80,6 +77,7 @@ aws ec2 describe-regions --query "Regions[].RegionName" --output text
 }
 ```
 **Screenshot:**
+
 ![IAM User with S3 Access Policy](assets/Q3_IAM_User_S3_Policy.png)
 
 ---
@@ -140,6 +138,7 @@ In data analytics workflows, choosing the right storage class balances cost with
 ```
 
 **Screenshot:**
+
 ![S3 Bucket Versioning Screenshot](assets/Q4_S3_Bucket_Versioning.png)
 
 ---
@@ -154,11 +153,30 @@ In data analytics workflows, choosing the right storage class balances cost with
 
 3. Verified that the lifecycle rule is active on the bucket.
 
-**Screenshot:**
+**Json:**
 
-![S3 Lifecycle Policy Screenshot](assets/Q6_S3_Lifecycle_Policy.png)
-
----
+```json
+{
+  "Rules": [
+    {
+      "ID": "MoveToGlacierAfter30Days_DeleteAfter90Days",
+      "Filter": {
+        "Prefix": ""
+      },
+      "Status": "Enabled",
+      "Transitions": [
+        {
+          "Days": 30,
+          "StorageClass": "GLACIER"
+        }
+      ],
+      "Expiration": {
+        "Days": 90
+      }
+    }
+  ]
+}
+```
 
 ---
 
