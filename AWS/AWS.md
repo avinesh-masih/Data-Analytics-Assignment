@@ -721,8 +721,12 @@ This pipeline demonstrates how to build a scalable, cost-effective, and serverle
 | Visualization     | QuickSight        | Dashboards and BI |
 | Monitoring/Audit  | CloudWatch / CloudTrail | Observability and compliance |
 
+This architecture ensures high scalability, cost-efficiency (serverless), and flexibility. It can be used for everything from basic reporting to complex machine learning pipelines.
+
 ---
 
-This architecture ensures high scalability, cost-efficiency (serverless), and flexibility. It can be used for everything from basic reporting to complex machine learning pipelines.
+<footer style="text-align: center; padding: 1rem; font-size: 0.9rem; color: #666;">
+  &copy; 2025 <a href="https://avinesh-masih.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Avinesh Masih</a>. All rights reserved.
+</footer>
 
 ---
