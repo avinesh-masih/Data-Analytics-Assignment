@@ -1,3 +1,5 @@
+[![Run App](https://img.shields.io/badge/🚀%20Run%20App-Click%20Here-orange?style=for-the-badge&logo=streamlit)](https://crypto-liquidity-prediction.streamlit.app/)
+
 # 🧠 Cryptocurrency Liquidity Prediction for Market Stability
 
 ## 📌 Project Type  
